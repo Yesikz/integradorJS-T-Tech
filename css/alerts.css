@@ -1,0 +1,10 @@
+.swal2-popup {
+    background-color: rgb(197, 241, 204);
+    max-width: 300px;
+    border: 5px solid rgb(15, 167, 103);
+    border-radius: 15px;
+  }
+  
+  .swal2-title {
+    color: #070000;
+  }

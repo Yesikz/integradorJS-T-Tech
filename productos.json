@@ -1,0 +1,56 @@
+[
+    {
+        "nombre": "Calendula",
+        "imgSrc": "img/calendula.jpg",
+        "altText": "Calendula",
+        "descripcion": "Planta ornamental que se utiliza con fines medicinales o cosméticos debido a sus propiedades terapéuticas, cuenta en su composición con carotenoides, flavonoides, triterpenos, ácidos fenólicos y taninos.",
+        "presentacion": "Flores secas x 100 gramos",
+        "precio": "$1500.00",
+        "link": "pages/calendula.html"
+    },
+    {
+        "nombre": "Aloe Vera",
+        "imgSrc": "img/aloe.jpg",
+        "altText": "Aloe",
+        "descripcion": "El Aloe vera planta decorativa, se utiliza en medicina y cosmética e incluso para la alimentación en algunos países. El gel de aloe se usa para hacer medicamentos tópicos para afecciones de la piel.",
+        "presentacion": "Gel x 100 cc",
+        "precio": "$7000.00",
+        "link": "pages/aloe.html"
+    },
+    {
+        "nombre": "Llanten",
+        "imgSrc": "img/llanten.jpg",
+        "altText": "LLanten",
+        "descripcion": "Es una planta herbácea y medicinal que crece cerca del suelo, con una altura de 20 a 60 centímetros de alto.",
+        "presentacion": "Hojas secas x 100 gramos",
+        "precio": "$4200.00",
+        "link": "pages/llanten.html"
+    },
+    {
+        "nombre": "Malva",
+        "imgSrc": "img/malva4.png",
+        "altText": "Malva",
+        "descripcion": "Planta perenne de flores púrpuras o rosáceas. Se ha utilizado en la medicina popular debido a las propiedades medicinales. Con fines medicinales se utilizan la raíz, las hojas y las flores. Además las flores son comestibles.",
+        "presentacion": "Flores secas x 100 gramos",
+        "precio": "$6000.00",
+        "link": "pages/malva.html"
+    },
+    {
+        "nombre": "Menta",
+        "imgSrc": "img/menta.jpg",
+        "altText": "Menta",
+        "descripcion": "Planta perenne, de crecimiento rápido. Sus hojas son color verde intenso y por lo general con los bordes aserrados. Sus propiedades principales son: antiespasmódica, antiséptica, calma la pared interna del estómago.",
+        "presentacion": "Hojas secas x 100 gramos",
+        "precio": "$3000.00",
+        "link": "pages/menta.html"
+    },
+    {
+        "nombre": "Pasionaria",
+        "imgSrc": "img/pasionaria.jpg",
+        "altText": "Pasionaria Mburucuya",
+        "descripcion": "Contiene una gran cantidad de antioxidantes, que ayudan a prevenir enfermedades crónicas y el envejecimiento. Es rico en fibra, lo que ayuda a la digestión. Contiene vitamina C, potasio, fósforo, magnesio, cobre y hierro.",
+        "presentacion": "Flores y hojas secas x 100 gramos",
+        "precio": "$8000.00",
+        "link": "pages/pasionaria.html"
+    }
+]
