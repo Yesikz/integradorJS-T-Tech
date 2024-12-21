@@ -24,4 +24,5 @@ Cómo Usarlo
 
 Abre el archivo index.html en tu navegador web favorito.
 
-Link: 
+Link: https://yesikz.github.io/integradorJS-T-Tech/
+
