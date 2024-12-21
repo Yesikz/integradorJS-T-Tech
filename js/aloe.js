@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-    // Crear la sección de Aloe Vera
+    //  Aloe Vera
     const aloeSection = document.createElement('section');
     aloeSection.innerHTML = `
         <h1>Aloe Vera</h1>
@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
         </div>
     `;
 
-    // Crear la sección de propiedades medicinales
+    // Propiedades medicinales
     const propiedadesSection = document.createElement('section');
     propiedadesSection.id = 'propiedades';
     propiedadesSection.innerHTML = `
@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
         </p>
     `;
 
-    // Crear la sección de beneficios
+    //  Beneficios
     const beneficiosSection = document.createElement('section');
     beneficiosSection.id = 'beneficios';
     beneficiosSection.innerHTML = `
@@ -52,14 +52,14 @@ document.addEventListener("DOMContentLoaded", function() {
         </div>
     `;
 
-    // Crear la imagen adicional
+    // Imagen 
     const imgSection = document.createElement('div');
     imgSection.classList.add('imgP');
     imgSection.innerHTML = `
         <img src="../img/aloe2.jpg" alt="aloe">
     `;
 
-    // Crear la sección de usos
+    // Usos
     const usosSection = document.createElement('section');
     usosSection.id = 'usos';
     usosSection.innerHTML = `
@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function() {
         </p>
     `;
 
-    // Crear la sección de contraindicaciones
+    // Contraindicaciones
     const contraindicacionesSection = document.createElement('section');
     contraindicacionesSection.id = 'contraindicaciones';
     contraindicacionesSection.innerHTML = `
@@ -112,7 +112,7 @@ document.addEventListener("DOMContentLoaded", function() {
         </p>
     `;
 
-    // Crear la sección de video informativo
+    // video informativo
     const videoSection = document.createElement('section');
     videoSection.id = 'video';
     videoSection.innerHTML = `
@@ -120,7 +120,7 @@ document.addEventListener("DOMContentLoaded", function() {
         <iframe class="responsive-iframe" width="560" height="315" src="https://www.youtube.com/embed/P6P1tb80t2k?si=Vjem5JCI8_UXvRh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     `;
 
-    // Agregar todas las secciones al main
+    // Agregaremos todas las secciones al main
     const main = document.querySelector('main');
     main.appendChild(aloeSection);
     main.appendChild(propiedadesSection);
